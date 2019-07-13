@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.LogicaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-07-13T01:33:53" hostname="DESKTOP-2F30VT4" time="0.014">
+  <properties/>
+  <testcase name="noPalindromoVacio" classname="dominio.unitaria.LogicaTest" time="0.0"/>
+  <testcase name="noPalindromo" classname="dominio.unitaria.LogicaTest" time="0.001"/>
+  <testcase name="sumaMas30Isbn" classname="dominio.unitaria.LogicaTest" time="0.002"/>
+  <testcase name="esPalindromo" classname="dominio.unitaria.LogicaTest" time="0.0"/>
+  <testcase name="fechaEntregaDomingo" classname="dominio.unitaria.LogicaTest" time="0.002"/>
+  <testcase name="sumaMenor30Isbn" classname="dominio.unitaria.LogicaTest" time="0.0"/>
+  <testcase name="fechaEntregaSemana" classname="dominio.unitaria.LogicaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
